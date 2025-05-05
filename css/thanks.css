@@ -2,8 +2,7 @@
     box-sizing: border-box;
 }
 body {
-    background: #ffffff;
-    background: linear-gradient(to bottom, #ffffff 0%, #e1e8ed 100%);
+    background: #101820FF;
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e1e8ed',GradientType=0 );
     height: 100%;
     margin: 0;
@@ -37,8 +36,8 @@ h1 {
     letter-spacing: 1px;
 }
 .go-home {
-    background: #d6ed17ff;
-    border: 2px solid #ffffff;
+    background: transparent;
+    border-color: #d6ed17ff;
     color: #ffffff;
     font-weight: 600;
     letter-spacing: 1px;
@@ -106,6 +105,5 @@ a:hover .go-home {
         max-width: 620px;
         margin: 0 auto;
         margin-top: 50px;
-        box-shadow: 4px 8px 40px 8px lightgray;
     }
 }
