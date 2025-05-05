@@ -1,0 +1,1 @@
+# HandelsKompass-trading-website-N-SP-DE-I
